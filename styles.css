@@ -541,12 +541,12 @@ footer {
     display: block;
 }
 .testimony-form input{
-    width: 250px;
+    width: 210px;
     margin: 15px auto;
 }
 
 .testimony-form textarea{
-    width: 250px;
+    width: 210px;
     height:200px;
     padding: 10px 20px; 
     color: #333;
