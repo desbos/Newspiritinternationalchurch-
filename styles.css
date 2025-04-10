@@ -730,7 +730,7 @@ footer {
     display: block;
 }
 .testimony-form input{
-    width: 250px;
+    width: 100%;
     margin: 15px auto;
 }
 
